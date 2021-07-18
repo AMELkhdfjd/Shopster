@@ -1,4 +1,23 @@
 .navbar{
     background-color: #0096C7;
     height: 70px;
+    padding: 0px 0px 0px 0px;
+    margin: 0px 0px;
+   
+}
+
+.login_button{
+  display: inline;    
+}
+.container{
+    margin-right: 50px;
+    margin-left: 150px;
+    padding: 0px;
+    background-color: aqua;
+}
+body {
+    padding: 50px 0px 0px 0px;
+    z-index: 0; }
+.buttons {
+    background-color: blue;
 }
