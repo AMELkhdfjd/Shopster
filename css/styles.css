@@ -1,5 +1,6 @@
 .navbar{
-    background-color: #440e29;
+  background-color: #0096C7;
+   
     height: 70px;
     padding: 0px 0px 0px 0px;
    
@@ -12,7 +13,7 @@
 .container{
    
     padding: 10px 0px 10px 10px;
-    background-color: aqua;
+    
     
     
 }
@@ -20,24 +21,38 @@ body {
     padding: 0px 0px 0px 0px;
     z-index: 0; }
 .buttons {
-    background-color: blue;
+  
+    padding-right: 30px;
 }
-.search{
-    
-}
+
 
 
 html, body {
   height:100%;
 
 }
+.card_button{
+  font-size: 20px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+  
+}
+.fa-cart-plus{
+  color: floralwhite;
+}
+.fa-sign-in{
+  color: floralwhite;
+}
+.login_button{
+  font-size: 20px;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  padding-left: 20px;
+
+}
 
 
 
 #content {
-  background-color: #66112d;
-  
-  
 }
 
 .search-form {
@@ -47,15 +62,14 @@ html, body {
   
 }
 .form-control{
-  background-color:#66112d;
+
   width: 100%;
 
 }
 
 .input-group {
  
-  background-color: rgb(221, 221, 16);
-  
+
  
 }
 
@@ -66,7 +80,7 @@ input-group-btn {
 
 #search {
   border: 1px;
-  background-color: blue;
+
   
   
 }
