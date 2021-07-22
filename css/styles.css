@@ -112,16 +112,8 @@ input-group-btn {
     }
       
 
-    .home-page-right-section .home-page-right-card .main-banner-wrapper .banner-link.bar .banner-item {
-      width: 20%;
-      overflow: hidden;
-      text-overflow: ellipsis;
-      white-space: nowrap;
-      color: #666;
-      padding: 18px 0 16px;
-      float: left;
-      display: inline-block;
-      cursor: pointer;
-  }
+   .carousel-indicators{
+     
+   }
       
 
