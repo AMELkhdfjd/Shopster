@@ -148,6 +148,33 @@ input-group-btn {
 .carousel-control-next-icon {
         background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%23000' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
     }
+
+
+
+/*Single product details*/
+.single_product{
+  margin-top: 80px;
+}
+.single_product .col-2{
+  padding: 20px;
+}
+.single_product h4{
+  margin: 20px 0px;
+  font-size: 22px;
+  font-weight: bold;
+
+}
+.image {
+  background-color: #5acf17;
+
+}
+.single_product input{
+  width: 50px;
+  height:40px;
+  padding-left: 10px;
+  font-size: 20px;
+  
+}
       
 
   
