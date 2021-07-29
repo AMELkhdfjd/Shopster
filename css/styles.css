@@ -175,7 +175,35 @@ input-group-btn {
   font-size: 20px;
   
 }
-      
+  /*For the categories*/    
+.categories{
+  background-color: #f8fcf1;
+  padding: 90px 0px 10px 30px;
+}
+.inter-categories {
+  background-color: #f4f4fc;
+  padding: 0px 0px 0px 0px;
+  
+  
+}
+  .list-group{
+
+  padding: 0px 0px 0px 0px;
+  margin-top: 0px;
+
+  background-color: #f0e7e8;
+  
+  }
+
+  .image-parent {
+    max-width: 30px;
+  }
+  ul{
+    max-height:  45px;
+    max-width:  250px;
+    padding: 0px 0px 0px 0px;
+   
+  }
 
   
 
