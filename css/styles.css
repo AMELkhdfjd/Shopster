@@ -114,9 +114,13 @@ input-group-btn {
   min-height: 400px; }
 
 .carousel {
-    background: #512DA8; }
+    background: #3708a5; 
+  }
     .carousel .carousel-item {
-      height: 300px; }
+      height: 300px;
+     
+    
+    }
       .carousel .carousel-item img {
         position: absolute;
         top: 0;
@@ -152,34 +156,43 @@ input-group-btn {
 
 
 /*Single product details*/
-.single_product{
-  margin-top: 80px;
-}
-.single_product .col-2{
-  padding: 20px;
-}
-.single_product h4{
-  margin: 20px 0px;
-  font-size: 22px;
-  font-weight: bold;
+.article{
 
-}
-.image {
-  background-color: #5acf17;
-  margin-top: 30px;
-
-}
-.single_product input{
-  width: 50px;
-  height:40px;
-  padding-left: 10px;
-  font-size: 20px;
+  margin-left: 20px;
+  background-color: #d81212;
+  margin-top: 0px;
+  margin-right: 10px;
+  margin-left: 5px;
+  max-height:  350px;
   
+
 }
+
+.article .image{
+  max-height: 130px;
+  max-width: 300px;
+  padding: 0px 0px 0px 0px;
+  width:100%;
+  height: 100%;
+ 
+}
+.element{
+  max-height:  270px;
+  max-width:  250px;
+  background-color: green;
+  padding: 10px 0px 0px 0px;
+  margin-left: 20px;
+  border-radius: 20px 20px;
+
+}
+
+
+
+
   /*For the categories*/    
 .categories{
   background-color: #F0F2ED;
-  padding: 90px 0px 40px 30px;
+  padding: 90px 0px 40px 90px;
 }
 .inter-categories {
   background-color: #ffffff;
@@ -231,8 +244,9 @@ h6{
 
 .pin{
   background-color: #ffffff;
-  margin-top: 90px;
-  margin-right: 40px;
+  margin-top: 0px;
+  margin-right: 10px;
+  margin-left: 5px;
   max-height:  350px;
  
 }
