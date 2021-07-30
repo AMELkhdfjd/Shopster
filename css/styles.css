@@ -166,6 +166,7 @@ input-group-btn {
 }
 .image {
   background-color: #5acf17;
+  margin-top: 30px;
 
 }
 .single_product input{
@@ -177,21 +178,26 @@ input-group-btn {
 }
   /*For the categories*/    
 .categories{
-  background-color: #f8fcf1;
-  padding: 90px 0px 10px 30px;
+  background-color: #F0F2ED;
+  padding: 90px 0px 40px 30px;
 }
 .inter-categories {
-  background-color: #f4f4fc;
+  background-color: #ffffff;
   padding: 0px 0px 0px 0px;
+  margin-right: 0px;
   
   
+}
+.inter-categories h6{
+  padding: 20px 20px 10px 20px;
 }
   .list-group{
 
   padding: 0px 0px 0px 0px;
   margin-top: 0px;
 
-  background-color: #f0e7e8;
+  background-color: #fcf7f7;
+
   
   }
 
@@ -199,12 +205,43 @@ input-group-btn {
     max-width: 30px;
   }
   ul{
-    max-height:  45px;
-    max-width:  250px;
+    max-height:  700px;
+    max-width:  400px;
     padding: 0px 0px 0px 0px;
-   
   }
+  li  a {
+    padding: 0px 0px 0px 10px;
+   
+    
+  }
+.more   a  {
 
+  padding: 10px 10px 0px 30px;
+  background-color: #ffffff;
+}
+h6{
+  background-color: #ffffff;
+  padding: 0px 0px 0px 50px;
+  margin-top: 0px;
+  align-self:auto;
+}
+.top{
+  background-color: #ffffff;
+}
+
+.pin{
+  background-color: #ffffff;
+  margin-top: 90px;
+  margin-right: 40px;
+  max-height:  350px;
+ 
+}
+ .pin .input{
+   margin-right: 90px;
+    
+}
+
+ 
   
 
 
