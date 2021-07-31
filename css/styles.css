@@ -264,9 +264,7 @@ h6{
 
 
 /* For the product card elements*/
-.product-section{
-  background-color: #d81212;
-}
+
 
 .section-product-cards{
   width:100%;
@@ -322,5 +320,31 @@ h6{
   .product-price span{
     margin-left: 10px;
   }
+  .div1{
+    width: 20%;
+    display: inline-block;
+    position: relative;
+    
 
+  }
+  .div2{
+    width: 20%;
+    display: inline-block;
+    position: relative;
+  } .div3{
+    width: 20%;
+    display: inline-block;
+    position: relative;
+  }
+   .div4{
+    width: 20%;
+    display: inline-block;
+    position: relative;
+  }
+
+  #container{
+    width: 100%;
+    margin-left: 40px;
+  }
+ 
 
