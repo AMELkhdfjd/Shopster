@@ -317,7 +317,13 @@ h6{
     font-size: 17px;
   }
   .product-price span{
-    margin-left: 20px;
+    margin-left: 10px;
   }
+  .fa-heart-o{
+    color:#3436c2
+  }
+.owl-carousel{
+  background-color: #0096C7;
+}
 
 
