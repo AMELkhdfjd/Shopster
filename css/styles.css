@@ -248,6 +248,7 @@ h6{
 .top{
   background-color: #ffffff;
 }
+/*For the pincode div*/
 
 .pin{
   background-color: #ffffff;
@@ -255,11 +256,15 @@ h6{
   margin-right: 10px;
   margin-left: 5px;
   max-height:  350px;
+  padding-bottom: 10px;
  
 }
- .pin .input{
-   margin-right: 90px;
-    
+.pincode{
+  padding: 0px 10px 10px 0px;
+  margin-left: 5px;
+}
+.submit{
+  margin-left: 0px;
 }
 
 
@@ -320,6 +325,7 @@ h6{
   .product-price span{
     margin-left: 10px;
   }
+  /*For the two lines of products*/
   .div1{
     width: 20%;
     display: inline-block;
@@ -346,5 +352,9 @@ h6{
     width: 100%;
     margin-left: 40px;
   }
- 
+ .load-more{
+   margin-top: 40px;
+   margin-left: 500px;
+   margin-bottom: 40px;
+ }
 
