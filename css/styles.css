@@ -264,6 +264,9 @@ h6{
 
 
 /* For the product card elements*/
+.product-section{
+  background-color: #d81212;
+}
 
 .section-product-cards{
   width:100%;
@@ -319,11 +322,5 @@ h6{
   .product-price span{
     margin-left: 10px;
   }
-  .fa-heart-o{
-    color:#3436c2
-  }
-.owl-carousel{
-  background-color: #0096C7;
-}
 
 
