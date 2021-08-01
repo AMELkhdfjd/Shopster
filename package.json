@@ -6,12 +6,7 @@
   "scripts": {
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "lite": "lite-server",
-    "clean":"rimraf dist" ,
-    "copyfonts": "copyfiles -f node_modules/font-awesome/fonts/* dist/fonts",
-    "imagemin":"imagemin img/* -o dist/img",
-    "usemin": " usemin index.html -d dist --htmlmin -o dist/index.html",
-    "build": "npm run clean && npm run imagemin && npm run copyfonts && npm run usemin"
+    "lite": "lite-server"
   },
   "repository": {
     "type": "git",
@@ -24,8 +19,7 @@
   },
   "homepage": "https://github.com/AMELkhdfjd/Shopster#readme",
   "devDependencies": {
-    "lite-server": "^2.6.1",
-    "rimraf": "^2.6.2"
+    "lite-server": "^2.6.1"
   },
   "dependencies": {
     "bootstrap": "^4.0.0",
